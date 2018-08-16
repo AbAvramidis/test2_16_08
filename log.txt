@@ -221,3 +221,4 @@ Aug 16 10:35:46 localhost.localdomain sudo[3814]:  jenkins : TTY=pts/1 ; PWD=/ho
 Aug 16 10:35:46 localhost.localdomain sudo[3817]:  jenkins : TTY=pts/1 ; PWD=/home/jenkins/python-systemd-http-server ; USER=root ; COMMAND=/bin/make install
 Aug 16 10:35:46 localhost.localdomain sudo[3840]:  jenkins : TTY=pts/1 ; PWD=/home/jenkins/python-systemd-http-server ; USER=root ; COMMAND=/bin/make uninstall
 Aug 16 10:35:46 localhost.localdomain sudo[3844]:  jenkins : TTY=pts/1 ; PWD=/home/jenkins/python-systemd-http-server ; USER=root ; COMMAND=/bin/journalctl
+   Active: active (running) since Thu 2018-08-16 10:44:07 UTC; 39ms ago
